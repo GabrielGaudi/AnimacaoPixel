@@ -10,7 +10,7 @@
   <p><strong>Círculo e Spray,</strong> juntos, nas nuvens no topo e nas nuvens de fumaça. Usava o spray para criar uma forma, o círculo para contorná-la e depois ajeitava as cores e bordas com o lápis, para criar formas arredondadas, mas com uma aparência mais natural.</p>
   <p><strong>Quadrado,</strong> para fazer o cubo de gelo.</p>
   <p><strong>Círculo,</strong> para fazer os olhos e boca do cubo de gelo.</p>
-  <p><strong>Balde,</strong> no chão, pilares, menino lua, cor de fundo, nuvens (de fumaça e fundo) e cubo de gelo, para acelerar a processo de desenho.</p>
+  <p><strong>Balde,</strong> no chão, pilares, menino lua, cor de fundo, nuvens (de fumaça e fundo) e cubo de gelo, para acelerar a pintura.</p>
   <p><strong>Seletor de cores,</strong> em inúmeras situações, para reutilizar cores que não estão salvas em uma paleta.</p>
   <p><strong>Ferramenta seletor,</strong> para mover partes do desenho sem mover a camada inteira (selecionando parte da nuvem de fumaça e a movendo separadamente) e copiar o pilar e espinhos, para reusá-los.</p>
   <p><strong>Ferramenta Mover,</strong> para mover a camada inteira, principalmente as partículas no fundo e os personagens</p>
