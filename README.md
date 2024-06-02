@@ -1,10 +1,10 @@
 # AnimacaoPixel
 
-Gabriel Gaudí Pozzi Rosalvo
-Bruno Queiroz Plata
-Cena: Cuphead e menino lua estão em um nível de Moonleap, menino lua pula em cima de um bloco de gelo para alcançar a flor em cima deles, mas Cuphead ataca e destrói o cubo, o menino lua quase cai em cima de espinhos, mas Cuphead usa sua bomba de fumaça para salvá-lo.
+<h5>Gabriel Gaudí Pozzi Rosalvo</h5><br>
+<h5>Bruno Queiroz Plata</h5><br>
+Cena: Cuphead e menino lua estão em um nível de Moonleap, menino lua pula em cima de um bloco de gelo para alcançar a flor em cima deles, mas Cuphead ataca e destrói o cubo, o menino lua quase cai em cima de espinhos, mas Cuphead usa sua bomba de fumaça para salvá-lo.<br>
 
-Ferramentas usadas:
+<h6>Ferramentas usadas:</h6>
 <ol>
   <p>Linha, para facilitar o desenho dos pilares e do cubo.</p>
   <p>Círculo e Spray, juntos, nas nuvens no topo e nas nuvens de fumaça. Usava o spray para criar uma forma, o círculo para contorná-la e depois ajeitava as cores e bordas com o lápis, para criar formas arredondadas, mas com uma aparência mais natural.</p>
